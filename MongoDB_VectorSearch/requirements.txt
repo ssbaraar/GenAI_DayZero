@@ -1,0 +1,18 @@
+# Core dependencies
+python-dotenv
+pymongo
+PyPDF2
+
+# Google AI and Language Models
+google-generativeai
+
+# LangChain components
+langchain
+langchain-community
+
+# Logging and utilities
+uuid
+traceback-utils
+
+# Optional but recommended for better MongoDB support
+pymongo[srv]
