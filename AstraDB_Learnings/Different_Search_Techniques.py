@@ -20,6 +20,7 @@ def clean_text(text):
     text = re.sub(r'\n+', ' ', text)
     # Remove multiple spaces
     text = re.sub(r'\s{2,}', ' ', text)
+    # Strip leading and trailing whitespace and return the cleaned text
     return text.strip()
 
 def display_results_json(results, include_metadata=False):
@@ -54,9 +55,9 @@ ASTRA_TOKEN = os.getenv("ASTRA_TOKEN")
 # Initialize AstraDBVectorStore
 vector_store = AstraDBVectorStore(
     embedding=hf_embeddings,
-    collection_name="your_collection_name",
-    token=ASTRA_TOKEN,
-    api_endpoint="your_api_endpoint"
+    collection_name=os.getenv("ASTRA_COLLECTION_NAME"),
+    token=os.getenv("ASTRA_TOKEN"),
+    api_endpoint=os.getenv("ASTRA_API_ENDPOINT")
 )
 
 def similarity_search(query, k=1):
