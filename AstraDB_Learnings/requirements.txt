@@ -1,0 +1,9 @@
+#nstall the following packages 
+astrapy
+python-dotenv
+langchain-astradb
+langchain-community
+langchain-huggingface
+torch
+transformers
+sentence-transformers
