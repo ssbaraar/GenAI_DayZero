@@ -40,118 +40,94 @@
 </div>
 
 ## 🎯 Why Learn These Technologies?
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <h2>🚀 Core Technologies</h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-    <!-- Background -->
-    <rect width="800" height="600" fill="#f8f9fa"/>
-    
-    <!-- LLM Section -->
-    <g transform="translate(50, 50)">
-        <rect width="220" height="200" rx="10" fill="#ff6b6b" opacity="0.9">
-            <animate attributeName="opacity" values="0.7;0.9;0.7" dur="3s" repeatCount="indefinite"/>
-        </rect>
-        <text x="20" y="40" fill="white" font-weight="bold" font-size="16">LLMs 🧠</text>
-        <text x="20" y="70" fill="white" font-size="12">Market: $36B by 2025</text>
-        <g transform="translate(20, 90)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Customer Service</text>
-        </g>
-        <g transform="translate(20, 110)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="0.5s"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Content Generation</text>
-        </g>
-        <g transform="translate(20, 130)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="1s"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Code Assistance</text>
-        </g>
-    </g>
+<details>
+<summary><h3>🧠 Large Language Models (LLMs)</h3></summary>
 
-    <!-- RAG Section -->
-    <g transform="translate(290, 50)">
-        <rect width="220" height="200" rx="10" fill="#4ecdc4" opacity="0.9">
-            <animate attributeName="opacity" values="0.7;0.9;0.7" dur="3s" repeatCount="indefinite" begin="1s"/>
-        </rect>
-        <text x="20" y="40" fill="white" font-weight="bold" font-size="16">RAG 📚</text>
-        <text x="20" y="70" fill="white" font-size="12">Reduced Hallucinations</text>
-        <g transform="translate(20, 90)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Knowledge Bases</text>
-        </g>
-        <g transform="translate(20, 110)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="0.5s"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Legal Analysis</text>
-        </g>
-        <g transform="translate(20, 130)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="1s"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Medical Research</text>
-        </g>
-    </g>
+<div align="center">
+  <img src="https://img.shields.io/badge/Market_Size-$36B_by_2025-blue?style=for-the-badge&logo=marketingsite&logoColor=white"/>
+</div>
 
-    <!-- Vector DB Section -->
-    <g transform="translate(530, 50)">
-        <rect width="220" height="200" rx="10" fill="#45b7d1" opacity="0.9">
-            <animate attributeName="opacity" values="0.7;0.9;0.7" dur="3s" repeatCount="indefinite" begin="2s"/>
-        </rect>
-        <text x="20" y="40" fill="white" font-weight="bold" font-size="16">Vector DBs 🎯</text>
-        <text x="20" y="70" fill="white" font-size="12">Efficient Search</text>
-        <g transform="translate(20, 90)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Recommendations</text>
-        </g>
-        <g transform="translate(20, 110)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="0.5s"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Image Search</text>
-        </g>
-        <g transform="translate(20, 130)">
-            <circle r="4" fill="white">
-                <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="1s"/>
-            </circle>
-            <text x="15" y="5" fill="white" font-size="11">Fraud Detection</text>
-        </g>
-    </g>
+### 🎯 Industry Impact
+```mermaid
+graph LR
+    A[LLMs] --> B[Customer Service]
+    A --> C[Content Creation]
+    A --> D[Code Generation]
+    A --> E[Translation]
+    style A fill:#ff6b6b,stroke:#333,stroke-width:4px
+```
 
-    <!-- Connecting Lines -->
-    <g stroke="#ccc" stroke-width="2" stroke-dasharray="5,5">
-        <line x1="270" y1="150" x2="290" y2="150">
-            <animate attributeName="stroke-dashoffset" values="10;0" dur="10s" repeatCount="indefinite"/>
-        </line>
-        <line x1="510" y1="150" x2="530" y2="150">
-            <animate attributeName="stroke-dashoffset" values="10;0" dur="10s" repeatCount="indefinite"/>
-        </line>
-    </g>
+### 🔥 Key Applications
+| Application | Impact |
+|------------|---------|
+| 🤖 Customer Support | Automated 24/7 assistance |
+| ✍️ Content Creation | Scale content production |
+| 💻 Code Assistance | Accelerate development |
+| 🌍 Translation | Break language barriers |
 
-    <!-- Floating Particles -->
-    <g>
-        <circle cx="150" cy="300" r="3" fill="#ff6b6b">
-            <animate attributeName="cy" values="300;280;300" dur="3s" repeatCount="indefinite"/>
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="390" cy="300" r="3" fill="#4ecdc4">
-            <animate attributeName="cy" values="300;280;300" dur="3s" repeatCount="indefinite" begin="1s"/>
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" begin="1s"/>
-        </circle>
-        <circle cx="630" cy="300" r="3" fill="#45b7d1">
-            <animate attributeName="cy" values="300;280;300" dur="3s" repeatCount="indefinite" begin="2s"/>
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" begin="2s"/>
-        </circle>
-    </g>
-</svg>
+</details>
+
+<details>
+<summary><h3>📚 Retrieval Augmented Generation (RAG)</h3></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Reduces-Hallucinations-green?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+</div>
+
+### 🌟 Why RAG Matters
+```mermaid
+graph TD
+    A[RAG Benefits] --> B[Reduced Hallucinations]
+    A --> C[Real-time Updates]
+    A --> D[Data Privacy]
+    style A fill:#4ecdc4,stroke:#333,stroke-width:4px
+```
+
+### 💡 Use Cases
+| Domain | Application |
+|--------|-------------|
+| 🏢 Enterprise | Knowledge Management |
+| ⚖️ Legal | Document Analysis |
+| 🏥 Medical | Research Assistance |
+| 📚 Education | Content Creation |
+
+</details>
+
+<details>
+<summary><h3>🎯 Vector Databases</h3></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Feature-Similarity_Search-orange?style=for-the-badge&logo=database&logoColor=white"/>
+</div>
+
+### ⚡ Key Benefits
+```mermaid
+graph LR
+    A[Vector DBs] --> B[Efficient Search]
+    A --> C[Scalable Storage]
+    A --> D[Real-time Processing]
+    style A fill:#45b7d1,stroke:#333,stroke-width:4px
+```
+
+### 🔍 Applications
+| Use Case | Impact |
+|----------|---------|
+| 🎯 Recommendations | Personalized Experience |
+| 🖼️ Image Search | Visual Similarity |
+| 🛡️ Fraud Detection | Pattern Recognition |
+| 📊 Analytics | Real-time Insights |
+
+</details>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Line Break"/>
