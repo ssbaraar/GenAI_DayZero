@@ -1,10 +1,10 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+GenAI_DayZero;Learn+AI+from+Ground+Zero;Master+LLMs+%26+RAG;Explore+Fine-tuning;Build+the+Future+with+AI)](https://git.io/typing-svg)
-
+<img src="https://raw.githubusercontent.com/ssbaraar/GenAI_DayZero/main/assets/day-zero-pomegranate.png" alt="Day Zero Pomegranate" width="500px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> GenAI_DayZero
+<h3>
+  <i>Where AI Knowledge Grows From Zero to Hero</i>
+</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line Break"/>
-
-</div>
 
 # 🤖 GenAI_DayZero
 
