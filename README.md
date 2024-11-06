@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b79e9cce-b3f6-44a9-82ba-a5b404ca4fa1" alt="Day Zero Pomegranate" width="500px"/>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> GenAI_DayZero
+<img src="https://github.com/user-attachments/assets/b79e9cce-b3f6-44a9-82ba-a5b404ca4fa1" alt="Day Zero Pomegranate" width="800px"/>
 <h3>
   <i>Where AI Knowledge Grows From Zero to Hero</i>
 </h3>
