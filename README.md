@@ -44,26 +44,6 @@ Welcome to GenAI_DayZero, your comprehensive guide to mastering Generative AI! T
 - Text Generation & Summarization
 - Code Generation & Assistance
 
-## 📂 Repository Structure
-
-```
-GenAI_DayZero/
-├── 01_foundations/
-├── 02_genai_fundamentals/
-├── 03_advanced_topics/
-├── 04_practical_applications/
-├── projects/
-└── resources/
-```
-
-## 🎓 How to Use This Repository
-
-1. **Start with Foundations**: If you're new to AI, begin with the foundations section
-2. **Follow the Sequence**: Progress through the tracks in order
-3. **Hands-on Practice**: Complete the exercises in each section
-4. **Build Projects**: Apply your knowledge to real-world projects
-5. **Join Discussions**: Participate in discussions via Issues and Discussions
-
 ## 🔧 Getting Started
 
 ```bash
