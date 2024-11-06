@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b79e9cce-b3f6-44a9-82ba-a5b404ca4fa1" alt="Day Zero Pomegranate" width="800px"/>
+<img src="https://github.com/user-attachments/assets/b79e9cce-b3f6-44a9-82ba-a5b404ca4fa1" alt="Day Zero Pomegranate" width="400px"/>
 <h3>
   <i>Where AI Knowledge Grows From Zero to Hero</i>
 </h3>
