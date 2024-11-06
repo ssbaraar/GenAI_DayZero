@@ -4,6 +4,7 @@
   <i>Where AI Knowledge Grows From Zero to Hero</i>
 </h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line Break"/>
+</div>
 
 # 🤖 GenAI_DayZero
 
