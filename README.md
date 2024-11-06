@@ -93,41 +93,6 @@ graph LR
     style F fill:#98FB98
 ```
 
-## 📚 Curriculum Overview
-
-### 1. 🌱 Foundations
-<details>
-<summary>Click to expand</summary>
-
-- **Week 1-2**: Python & Math Essentials
-- **Week 3-4**: ML Fundamentals
-- **Projects**: 
-  - Data Analysis Pipeline
-  - Basic ML Models
-</details>
-
-### 2. 🚀 GenAI Fundamentals
-<details>
-<summary>Click to expand</summary>
-
-- **Week 5-6**: Understanding LLMs
-- **Week 7-8**: Transformer Architecture
-- **Projects**:
-  - Custom Chatbot
-  - Text Generator
-</details>
-
-### 3. 💡 Advanced Topics
-<details>
-<summary>Click to expand</summary>
-
-- **Week 9-10**: RAG Implementation
-- **Week 11-12**: Fine-tuning & Optimization
-- **Projects**:
-  - Enterprise Search Engine
-  - Document Q&A System
-</details>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line Break"/>
 </div>
